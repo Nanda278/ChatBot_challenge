@@ -11,3 +11,6 @@ The Files includes are
     2. Provide the total corona details within india(States only)
     3. Provide the total corona details within india (based on pincode) wtih geogrpahic map.
     4. provide the top country details for recovered cases/death cases/confirmed cases.
+   
+8. Deployment : Azure Web App.
+9 DataBase : Azure cosmos DB.
