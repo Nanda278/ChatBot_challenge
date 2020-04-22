@@ -5,5 +5,5 @@ This folder contains
 3. Slack Deployment - Slack_video.mp4
 4. Telegram Deployment - Telegram_Video.mp4
 5. Telegram name : Covid19_Dialog
-6 FB page : Rasa_test_1
+6. FB page : Rasa_test_1
 7. Source Code : https://github.com/Nanda278/googledialogflow
